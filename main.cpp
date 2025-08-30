@@ -1,10 +1,3 @@
-#include <iostream>
-#include <vector>
-#include <memory>
-#include <set>
-#include <list>
-#include <stack>
-#include <queue>
 #include "graph.h"
 
 using namespace std;
